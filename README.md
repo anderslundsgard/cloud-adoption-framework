@@ -5,6 +5,13 @@ A collection of learnings and especially questions for discussion when companies
 The big public Cloud providers have their own version of Cloud Adoption Framework (CAF) publicly described:
 
  - [Cloud Adoption Framework - AWS][1]
+   - Six perspectives
+     - Business
+     - People
+     - Governance
+     - Platform
+     - Security
+     - Operations
  - [Cloud Adoption Framework - Azure][2]
  - [Cloud Adoption Framework - Google][3] - [Whitepaper from Google][6]
    - Four capabilities
