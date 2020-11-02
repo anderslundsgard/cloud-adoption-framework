@@ -6,12 +6,19 @@ The big public Cloud providers have their own version of Cloud Adoption Framewor
 
  - [Cloud Adoption Framework - AWS][1]
  - [Cloud Adoption Framework - Azure][2]
- - [Cloud Adoption Framework - Google][3]
+ - [Cloud Adoption Framework - Google][3] - [Whitepaper from Google][6]
+   - Four capabilities
+     - Learn, Lead, Scale & Secure
 
-[1]: https://aws.amazon.com/professional-services/CAF
-[2]: https://docs.microsoft.com/en-gb/azure/cloud-adoption-framework
-[3]: https://cloud.google.com/adoption-framework
+
+
 
 This documentation aim to summarize a lightweight version of these. Based on real world implementations.
 
 *...more to come :)*
+
+
+[1]: https://aws.amazon.com/professional-services/CAF
+[2]: https://docs.microsoft.com/en-gb/azure/cloud-adoption-framework
+[3]: https://cloud.google.com/adoption-framework
+[6]: https://services.google.com/fh/files/misc/google_cloud_adoption_framework_whitepaper.pdf
