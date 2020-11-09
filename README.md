@@ -6,21 +6,19 @@ The big public Cloud providers have their own version of Cloud Adoption Framewor
 
  - [Cloud Adoption Framework - AWS][1]
    - Six perspectives
-     - Business
-     - People
-     - Governance
-     - Platform
-     - Security
-     - Operations
+     - Business, People, Governance, Platform, Security, Operations
  - [Cloud Adoption Framework - Azure][2]
  - [Cloud Adoption Framework - Google][3] - [Whitepaper from Google][6]
    - Four capabilities
      - Learn, Lead, Scale & Secure
 
-
-
-
 This documentation aim to summarize a lightweight version of these. Based on real world implementations.
+
+## Questions for discussions
+
+### What are your motivations for moving to cloud?
+
+### How much do you strive for autonomous teams vs centralized operations?
 
 *...more to come :)*
 
