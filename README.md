@@ -20,6 +20,14 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 
 ### How much do you strive for autonomous teams vs centralized operations?
 
+### Enforce these practices from the start?
+
+ - ReadOnly for humans in Production
+ - Centralized management of email
+ - Patch management
+ - ...
+ 
+
 *...more to come :)*
 
 
