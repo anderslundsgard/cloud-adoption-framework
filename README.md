@@ -25,6 +25,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - ReadOnly for humans in Production
  - Centralized management of email
  - Patch management
+ - Chaos monkey in prod accounts
  - ...
  
 
