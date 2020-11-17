@@ -20,6 +20,14 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 
 ### How much do you strive for autonomous teams vs centralized operations?
 
+### CCoE - Mission
+
+ - Cloud Foundation
+ - IAM
+ - DevTools
+  - VCS
+  - ...
+
 ### Enforce these practices from the start?
 
  - ReadOnly for humans in Production
