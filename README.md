@@ -26,6 +26,9 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - IAM
  - DevTools
   - VCS
+  - Artifactory
+  - CI/CD
+  - Vault
   - ...
 
 ### Enforce these practices from the start?
