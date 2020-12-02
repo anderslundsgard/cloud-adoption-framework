@@ -30,6 +30,14 @@ This documentation aim to summarize a lightweight version of these. Based on rea
   - CI/CD
   - Vault
   - ...
+  
+### CCoE - Enablements
+
+ - IAM restrictions (AWS SCPs)
+ - Email (AWS SES)
+ - Certificate Validations (AWS ACM)
+ - Cloud API trail (AWS CloudTrail)
+ 
 
 ### Enforce these practices from the start?
 
