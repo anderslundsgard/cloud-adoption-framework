@@ -37,6 +37,8 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Email (AWS SES)
  - Certificate Validations (AWS ACM)
  - Cloud API trail (AWS CloudTrail)
+ - Cost savings notifications (AWS Trusted Advisor)
+ - Security notifications (AWS Trusted Advisor / Config / Third party)
  
 
 ### Enforce these practices from the start?
