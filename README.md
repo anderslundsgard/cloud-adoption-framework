@@ -26,11 +26,11 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - IAM
  - Integration
  - DevTools
-  - VCS
-  - Artifactory
-  - CI/CD
-  - Vault
-  - ...
+   - VCS
+   - Artifactory
+   - CI/CD
+   - Vault
+   - ...
   
 ### CCoE - Enablements
 
