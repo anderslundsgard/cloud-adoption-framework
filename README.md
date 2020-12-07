@@ -24,6 +24,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 
  - Cloud Foundation
  - IAM
+ - Integration
  - DevTools
   - VCS
   - Artifactory
@@ -37,7 +38,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Email (AWS SES)
  - Certificate Validations (AWS ACM)
  - Cloud API trail (AWS CloudTrail)
- - Cost savings notifications (AWS Trusted Advisor)
+ - Cost savings notifications (AWS Trusted Advisor / Third party)
  - Security notifications (AWS Trusted Advisor / Config / Third party)
  - Automatic DNS delegation for .aws.corporate.com
  
