@@ -39,6 +39,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Cloud API trail (AWS CloudTrail)
  - Cost savings notifications (AWS Trusted Advisor)
  - Security notifications (AWS Trusted Advisor / Config / Third party)
+ - Automatic DNS delegation for .aws.corporate.com
  
 
 ### Enforce these practices from the start?
