@@ -42,6 +42,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Security notifications (AWS Trusted Advisor / Config / Third party)
  - Automatic DNS delegation for .aws.corporate.com
  - Disaster Recovery
+ - Limit Exposure & enable OWASP protection (AWS Firwall Manager & WAFv2)
  
 
 ### Enforce these practices from the start?
