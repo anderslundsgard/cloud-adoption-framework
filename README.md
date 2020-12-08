@@ -34,6 +34,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
   
 ### CCoE - Enablements
 
+ - IAM Federated access to cloud
  - IAM restrictions (AWS SCPs)
  - Email (AWS SES)
  - Certificate Validations (AWS ACM)
