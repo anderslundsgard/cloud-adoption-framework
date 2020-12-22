@@ -44,6 +44,8 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Automatic DNS delegation for .aws.corporate.com
  - Disaster Recovery
  - Limit Exposure & enable OWASP protection (AWS Firwall Manager & WAFv2)
+ - Threat detection (AWS GuardDuty)
+ - Network logs (AWS VPC Flowlogs)
  
 
 ### Enforce these practices from the start?
