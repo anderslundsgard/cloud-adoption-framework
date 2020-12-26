@@ -46,6 +46,8 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Limit Exposure & enable OWASP protection (AWS Firwall Manager & WAFv2)
  - Threat detection (AWS GuardDuty)
  - Network logs (AWS VPC Flowlogs)
+ - Coorporate inventory of Cloud usage
+ - On-Prem connectivity (AWS Direct Connect)
  
 
 ### Enforce these practices from the start?
