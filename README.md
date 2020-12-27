@@ -34,12 +34,16 @@ This documentation aim to summarize a lightweight version of these. Based on rea
   
 ### CCoE - Enablements
 
- - IAM Federated access to cloud
- - IAM restrictions (AWS SCPs)
+ - IAM 
+   - Federated access to cloud
+   - Restrictions (AWS SCPs)
+   - ... 
  - Email (AWS SES)
  - Certificate Validations (AWS ACM)
  - Cloud API trail (AWS CloudTrail)
- - Cost savings notifications (AWS Trusted Advisor / Third party)
+ - Cost management (AWS Trusted Advisor / Third party)
+   - Cost Trend
+   - Anomaly Detection
  - Security notifications (AWS Trusted Advisor / Config / Third party)
  - Automatic DNS delegation for .aws.corporate.com
  - Disaster Recovery
