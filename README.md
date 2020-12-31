@@ -52,6 +52,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
  - Network logs (AWS VPC Flowlogs)
  - Coorporate inventory of Cloud usage
  - On-Prem connectivity (AWS Direct Connect)
+ - Cloud provider maintenance and other notifications (AWS Health)
  
 
 ### Enforce these practices from the start?
