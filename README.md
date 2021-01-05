@@ -34,12 +34,14 @@ This documentation aim to summarize a lightweight version of these. Based on rea
   
 ### CCoE - Enablements
 
- - IAM 
-   - Federated access to cloud
-   - Restrictions (AWS SCPs)
-   - ... 
- - Email (AWS SES)
- - Certificate Validations (AWS ACM)
+||AWS tooling|Third party tooling example|
+|-------------|-------------|-------------|
+|IAM - Federated access to cloud|-|-|
+|IAM - Restrictions|Service Control Policies|-|
+|Email|AWS SES|-|
+|Certificate validations|AWS ACM|-|
+
+
  - Cloud API trail (AWS CloudTrail)
  - Cost management (AWS Trusted Advisor / Third party)
    - Cost Trend
