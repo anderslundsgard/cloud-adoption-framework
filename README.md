@@ -41,6 +41,7 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 |Email|AWS SES|-|
 |Certificate validations|AWS ACM|-|
 |Cloud API trail|AWS CloudTrail|-|
+|Cost management - Cost distribution within the company|-|-|
 |Cost management - Cost trend|AWS Trusted Advisor, Cost Explorer|Cloudability|
 |Cost management - Anomaly detection|AWS Cost Anomaly Detection|Cloudability|
 |Security compliance & norifications|AWS Trusted Advisor / Config|Cloudguard|
