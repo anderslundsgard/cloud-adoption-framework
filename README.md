@@ -36,26 +36,23 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 
 ||AWS tooling|Third party tooling example|
 |-------------|-------------|-------------|
-|IAM - Federated access to cloud|-|-|
+|IAM - Federated access to cloud|AWS SSO|-|
 |IAM - Restrictions|Service Control Policies|-|
 |Email|AWS SES|-|
 |Certificate validations|AWS ACM|-|
+|Cloud API trail|AWS CloudTrail|-|
+|Cost management - Cost trend|AWS Trusted Advisor, Cost Explorer|Cloudability|
+|Cost management - Anomaly detection|AWS Cost Anomaly Detection|Cloudability|
+|Security compliance & norifications|AWS Trusted Advisor / Config|Cloudguard|
+|Automatic DNS delegation for .cloud.corporate.com|AWS Route53|-|
+|Disaster Recovery|AWS S3|-|
+|Limit Exposure & enable OWASP protection|AWS Firwall Manager & WAFv2|-|
+|Threat detection|AWS GuardDuty|-|
+|Network log|AWS VPC Flowlogs|-|
+|Corporate inventory of Cloud usage|AWS Config|-|
+|On-Prem connectivity|AWS VPN & Direct Connect|-|
+|Cloud provider maintenance and other notifications|AWS Health|-|
 
-
- - Cloud API trail (AWS CloudTrail)
- - Cost management (AWS Trusted Advisor / Third party)
-   - Cost Trend
-   - Anomaly Detection
- - Security notifications (AWS Trusted Advisor / Config / Third party)
- - Automatic DNS delegation for .aws.corporate.com
- - Disaster Recovery
- - Limit Exposure & enable OWASP protection (AWS Firwall Manager & WAFv2)
- - Threat detection (AWS GuardDuty)
- - Network logs (AWS VPC Flowlogs)
- - Coorporate inventory of Cloud usage
- - On-Prem connectivity (AWS Direct Connect)
- - Cloud provider maintenance and other notifications (AWS Health)
- 
 
 ### Enforce these practices from the start?
 
