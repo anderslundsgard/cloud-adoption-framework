@@ -44,15 +44,17 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 |Cost management - Cost distribution within the company|-|-|
 |Cost management - Cost trend|AWS Trusted Advisor, Cost Explorer|Cloudability|
 |Cost management - Anomaly detection|AWS Cost Anomaly Detection|Cloudability|
-|Security compliance & norifications|AWS Trusted Advisor / Config|Cloudguard|
+|Security compliance & notifications|AWS Trusted Advisor / Config|Cloudguard|
 |Automatic DNS delegation for .cloud.corporate.com|AWS Route53|-|
 |Disaster Recovery|AWS S3|-|
+|Patch management|AWS Systems Manager|-|
 |Limit Exposure & enable OWASP protection|AWS Firwall Manager & WAFv2|-|
 |Threat detection|AWS GuardDuty|-|
 |Network log|AWS VPC Flowlogs|-|
 |Corporate inventory of Cloud usage|AWS Config|-|
 |On-Prem connectivity|AWS VPN & Direct Connect|-|
 |Cloud provider maintenance and other notifications|AWS Health|-|
+|Well Architected Workshops/Reviews|-|-|
 
 
 ### Enforce these practices from the start?
