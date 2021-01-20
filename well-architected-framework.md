@@ -13,6 +13,7 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
 ## Questions for further discussions
 
 ### Operational Excellence
+*The ability to make frequent, small, reversible changes and define the infrastructure as code. Anticipate that failures will happen and continuously try to improve operations procedures. Learn and share from failures and work proactively to test possible failure scenarios.*
 
 - How do you determine what your priorities are?
     - What are the sources that form your backlog?
@@ -21,8 +22,65 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
     - Does your company have a defined shared responsibility model?
 
 - How do you get help from the cloud vendor and from within your company?
+    - Do you have any concerns with utilizing the AWS Support?
+    - Do you see you company Cloud Center of Excellence as an enabler that help you in your cloud journey?
+
+- What is your process for application and infrastructure provisioning?
+    - Do you define Infrastructure as Code
+    - How is your cloud resources and application code deployed to your environments?
+    - Do you have any kind of write access to production environments for you personal (federated) users?
+        
+- How often do you make changes to your production environment(s)?
+    - What is you *batch size* for changes in production?
+
+- Do you keep track of your workloads by some kind of monitoring?
+    - Logs? 
+    - Metrics?
+        - AWS Managed metrics and custom metrics
+    - Alerts?
+
+- How do you react when issues are introduced to production?
+    - Rollback/forward procedures?
+        - Automated
+        - Manual with runbooks
+    - Do you strive to minimize the impact of a failed deployment or an introduced bug?
+
+
 
 ### Security
+*The ability to protect data, systems and assets from unauthorized access.*
+
+- Do you have a Security Lead in your team?
+    - Who are responsible for security in your team?
+
+- What is the classification (sensitivity) of the data you operate?
+
+- How do you separate development/test environments from production environment?
+
+- What security mechanisms do you use to only allow authenticated and authorized users to access your AWS accounts?
+    - Password rotation and complexity, enforce MFA?
+    - Do you utilize any Long Term access keys?
+        - How frequently are they rotated and where are they stored?
+
+- Do you have any thoughts on Least Privileges (limit to only needed access) to resources
+
+- Do you use detective controls to identify a potential security threat or incident?
+    - GuardDuty (threat detection service)?
+    - Analyze CloudTrail or CloudWatch logs for strange behaviors?
+
+- Do you use any tool(s) for automated security scanning?
+
+- Do you store access logs for sensitive parts in your architecture?
+    - ELB, CloudFront, S3 access logs, CloudTrail?
+
+- How do you protect your compute resources?
+    - private subnet, security groups, NACLs, WAF?
+
+- How do you protect data at rest?
+
+- How do you protect data in transit?
+
+- What would you do if you suddenly got an anomaly detection of increased cost for one of your accounts, and when logging into the account you see 50 and an increasing amount of EC2 instances being created?
 
 
 ### Reliability
