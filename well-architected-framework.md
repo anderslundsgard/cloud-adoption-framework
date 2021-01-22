@@ -84,7 +84,25 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
 
 
 ### Reliability
-*The ability to run workloads and make them perform their intended function correctly and consistently when expected.*
+*The ability to run workloads and make them perform their intended function correctly and consistently when it is expected to.*
+
+- Have you ever reached a soft or hard service limit in AWS?
+
+- Are you responsible for the network topology and Domain Name Resolution for your workloads?
+    - Describe the process for how to create a new network (VPC).
+    - Describe the process for DNS delegation.
+
+- How does your components communicate between each other?
+    - How do you deal with the event of high network latency that is out of your control?
+
+- How do you monitor workload resources? 
+    - Metrics, Logs?
+- How do you design your workload to adapt to changes in demand?
+    - Increase resources manually or automatic based on metrics?
+
+- Do you have a consistent process to implement change?
+    - Automation on all levels and Infrastructure as Code?
+
 
 
 ### Performance Efficiency
