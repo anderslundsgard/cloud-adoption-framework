@@ -103,9 +103,23 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
 - Do you have a consistent process to implement change?
     - Automation on all levels and Infrastructure as Code?
 
+- Do you have defined RTO (Recovery Time Objectives) and RPO (Recovery Point Objective)?
+
+- How is you workload designed to support your RTO and RPO when a component (e.g. a server) fail?
+    - Utilizing multiple AZ, using Auto-scaling?
+
+- Do you have a plan for Disaster Recovery?
+    - What services are you using to persist data?
+        - S3, RDS, etc.
+    - Do you have backups of all data?
+    - Have you verified and have a defined process to restore these backups?
+    - Describe the process how your workload would be restored in another AWS region.
+
+
 
 
 ### Performance Efficiency
+*The Performance Efficiency pillar includes the ability to use computing resources efficiently and to maintain that efficiency as demand changes and technologies evolve.*
 
 
 ### Cost Optimization
