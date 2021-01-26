@@ -121,6 +121,36 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
 ### Performance Efficiency
 *The Performance Efficiency pillar includes the ability to use computing resources efficiently and to maintain that efficiency as demand changes and technologies evolve.*
 
+- Can you describe the usage pattern of your workload?
+    - Different during the day/week etc.?
+
+- How do you select your compute solution?
+    - Instances, Containers, Functions?
+
+- How do you select your storage solution?
+    - S3 (object), EFS (file), EBS (block)
+
+- How do you select your database solution?
+    - Managed service or maintain your own?
+    - RDS (relational), DynamoDB (nosql), ElastiCache (memory)
+
+- How do you configure your networking solution?
+    - Network topology?
+    - Placement groups
+    - Edge services
+
+- Do you keep updated with new AWS releases that might enable you to improve your architecture and performance efficiency?
+    - How?
+
+- How do you monitor your resources to ensure they are performing?
+    - Metrics and dashboards? Alarms?
+    - Using CloudWatch, X-Ray?
+
+- Do you have "game days" where you simulate production problems?
+
+- Do you do tradeoffs between **consistency and durability** for **time and latency**.
+    - Do you generally do tradeoffs in efficiency versus cost? 
+
 
 ### Cost Optimization
 
