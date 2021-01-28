@@ -153,7 +153,29 @@ the bar on the standards they need to meet. Second, we implement **mechanisms** 
 
 
 ### Cost Optimization
+*The Cost Optimization pillar includes the ability to run systems to deliver business
+value at the lowest price point.*
 
+- What was the bill for your team previous cloud consumption?
+    - Approximately, how was it distributed over compute, data transfer and storage?
+
+- How do you track your cloud cost over time?
+    - Cost Explorer? 
+    - Trusted Advisor?
+
+- Do you monitor anomalies in your cloud cost?
+    - Cost Anomaly Detection?
+
+- How do you evaluate cost when you select services?
+    - RDS Aurora instead of MySql on EC2 for example
+
+- How do you manage demand, and supply resources?
+    - Auto Scaling?
+    - Buffer messages with queues, SQS?
+    - Serverless, Lambda
+    - DynamoDB on-demand?
+    - Aurora Serverless
+    - ...
 
 
 [1]: https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
