@@ -18,6 +18,8 @@ This documentation aim to summarize a lightweight version of these. Based on rea
 
 ### What are your motivations for moving to cloud?
 
+### Do you have a Cloud First strategy?
+
 ### How much do you strive for autonomous teams vs centralized operations?
 
 ### CCoE - Mission
